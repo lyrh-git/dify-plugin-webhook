@@ -1,6 +1,6 @@
 version: 0.5.1
 type: plugin
-author: perzeuss
+author: lyrh-git
 name: webhook
 label:
   en_US: Webhook
